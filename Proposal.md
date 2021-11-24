@@ -1,10 +1,10 @@
-# Riyadh Houses
+# Riyadh Houses Characteristics Prediction
 
 ## Introduction:
 This is a simple Dataset about housing prices in the city of Riyadh, Saudi Arabia.
 
 ## Business Problem:
-Predict of the house price depends on specific characteristics
+Predict of the house specific characteristic depends on others specific characteristics
 
 
 ## Data Description:
