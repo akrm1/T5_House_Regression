@@ -1,0 +1,46 @@
+# Riyadh Houses
+
+## Introduction:
+This is a simple Dataset about housing prices in the city of Riyadh, Saudi Arabia.
+
+## Business Problem:
+Predict of the house price depends on specific characteristics
+
+
+## Data Description:
+  ### source:
+  The data was obtained from the kaggle website: https://www.kaggle.com/mohammadqahtani/riyadh-villas-dataset
+    
+  ### Features:
+  - listTitle: shows the title list description about the house.
+  - time: before how much of time the house was offered.
+  - location: in any neighborhood the house is located in Riyadh.
+  - size: the area of the house meter squared.
+  - price: the price of the house in SR currency.
+  - bedrooms: how many bedrooms in the house.
+  - bathrooms: how many bathrooms in the house.
+  - details: more details description about the house.
+
+
+## Tools:
+  - Jupyter (Python: numpy, pandas, matplotlib, seaborn, plotly, sklearn)
+  - Power Point
+  - Notion
+  - Zoom
+
+
+## Questions:
+  - in any neighborhood the most houses are expensive?
+  - in any neighborhood the most houses are cheap?
+  - is the bedrooms affect on the price?
+  - is the bathrooms affect on the price?
+  - can we predict the price of the house depends on the features we had or we need more?
+  - can we extract and categorize houses into different types, and is it affect on the price?
+  - in which neighborhood the most number of houses offers?
+  - in which neighborhood the least number of houses offers?
+  - can we predict the size of the house depending on the price?
+
+
+## MVP Goal:
+The MVP goal is to answer at least two of the questions I mentioned.
+
