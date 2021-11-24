@@ -1,7 +1,8 @@
 # Riyadh Houses Characteristics Prediction
 
 ## Introduction:
-This is a simple Dataset about housing prices in the city of Riyadh, Saudi Arabia.
+The goal of this statistical analysis is to help us understand the relationship between house features and how these variables are used to predict the house specific characteristic.
+
 
 ## Business Problem:
 Predict of the house specific characteristic depends on others specific characteristics
