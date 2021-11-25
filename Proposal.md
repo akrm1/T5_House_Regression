@@ -7,6 +7,8 @@ The goal of this statistical analysis is to help us understand the relationship 
 ## Business Problem:
 Predict of the house specific characteristic depends on others specific characteristics
 
+## Project Management Approach:
+SCRUM
 
 ## Data Description:
   ### source:
@@ -21,6 +23,12 @@ Predict of the house specific characteristic depends on others specific characte
   - bedrooms: how many bedrooms in the house.
   - bathrooms: how many bathrooms in the house.
   - details: more details description about the house.
+
+
+## Algorithms:
+  - Linear Regression
+  - Polynomial Regression
+  - Ridge Regression
 
 
 ## Tools:
