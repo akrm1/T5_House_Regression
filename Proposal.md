@@ -5,10 +5,10 @@ The goal of this statistical analysis is to help us understand the relationship 
 
 
 ## Business Problem:
-Predict of the house specific characteristic depends on others specific characteristics
+Predict of the house specific characteristic depends on others specific characteristics.
 
 ## Project Management Approach:
-SCRUM
+Following basic SCRUM rules.
 
 ## Data Description:
   ### source:
