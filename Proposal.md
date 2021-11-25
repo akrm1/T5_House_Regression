@@ -1,11 +1,11 @@
 # Riyadh Houses Characteristics Prediction
 
 ## Introduction:
-The goal of this statistical analysis is to help us understand the relationship between house features and how these variables are used to predict the house specific characteristic.
+The goal of this statistical analysis is to help us understand the relationship between house features and how these variables are used to predict house specific characteristic.
 
 
 ## Business Problem:
-Predict of the house specific characteristic depends on others specific characteristics.
+Predicts the house specific characteristic depends on others specific characteristics.
 
 ## Project Management Approach:
 Following basic SCRUM rules.
@@ -39,11 +39,12 @@ Following basic SCRUM rules.
 
 
 ## Questions:
-  - in any neighborhood the most houses are expensive and cheap?
-  - is the bedrooms and bathrooms affect on the price?
-  - can we predict the price of the house depends on the features we had or we need more?
+  - in any neighborhood, the most houses are expensive and in any neighborhood the most houses are cheap?
+  - are the bedrooms and bathrooms affect on the price?
+  - can we predict the price of the house depending on the features we had or do we need more?
   - can we extract and categorize houses into different types, and is it affect on the price?
   - in which neighborhood the most and least number of houses offers?
+  - can we extract new information from 'details' to indicates the value of the house?
   - can we predict the size of the house depending on the price?
 
 
