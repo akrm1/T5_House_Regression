@@ -44,7 +44,6 @@ Following basic SCRUM rules.
   - can we predict the price of the house depending on the features we had or do we need more?
   - in which neighborhood the most and least number of houses offers?
   - can we extract new information from 'details' to indicates the value of the house?
-  - can we predict the size of the house depending on the price?
 
 
 ## MVP Goal:
