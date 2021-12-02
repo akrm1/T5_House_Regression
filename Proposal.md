@@ -1,11 +1,10 @@
-# Riyadh Houses Characteristics Prediction
+# Riyadh Houses Price Prediction
 
 ## Introduction:
-The goal of this statistical analysis is to help us understand the relationship between house features and how these variables are used to predict house specific characteristic.
-
+This project is to help the Saudi Arabia government to make the right investment in building new houses with low cost and high profits.
 
 ## Business Problem:
-Predicts the house specific characteristic depends on others specific characteristics.
+Predicts the house price depends on others specific characteristics.
 
 ## Project Management Approach:
 Following basic SCRUM rules.
@@ -32,7 +31,7 @@ Following basic SCRUM rules.
 
 
 ## Tools:
-  - Jupyter (Python: numpy, pandas, matplotlib, seaborn, plotly, sklearn)
+  - Jupyter (Python: numpy, pandas, re, seaborn, sklearn, geopandas)
   - Power Point
   - Notion
   - Zoom
@@ -43,7 +42,6 @@ Following basic SCRUM rules.
   - are the bedrooms and bathrooms affect on the price?
   - can we predict the price of the house depending on the features we had or do we need more?
   - in which neighborhood the most and least number of houses offers?
-  - can we extract new information from 'details' to indicates the value of the house?
 
 
 ## MVP Goal:
